@@ -9,7 +9,7 @@ idna==2.9
 jmespath==0.9.5
 joblib==0.14.1
 lxml==4.5.0
-numpy==1.18.3
+numpy==1.22.0
 Pillow==7.1.1
 python-dateutil==2.8.1
 python-docx==0.8.10
